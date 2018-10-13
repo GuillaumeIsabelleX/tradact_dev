@@ -19,3 +19,8 @@ post_date: 2018-10-13 12:19:57
 :)
 test:not so sure it works...
 it did work, it took 2 seconds !!
+
+
+
+This is edited on VSCode
+Does the merge automated?
