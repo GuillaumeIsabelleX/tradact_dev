@@ -1,6 +1,6 @@
 ---
 ID: 142
-post_title: Leadership with Robert Fritz 2
+post_title: Leadership with Robert Fritz
 author: admin
 post_excerpt: ""
 layout: post
