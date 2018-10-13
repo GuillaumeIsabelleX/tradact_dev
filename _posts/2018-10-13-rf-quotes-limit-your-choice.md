@@ -23,4 +23,4 @@ it did work, it took 2 seconds !!
 
 
 This is edited on VSCode
-Does the merge automated?
+Does the merge automated? or does what I did on the web discarted??
