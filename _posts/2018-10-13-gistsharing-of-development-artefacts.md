@@ -16,5 +16,3 @@ post_date: 2018-10-13 12:09:09
 
 ## Why would we use them?
 
-
-IN fact I am trying to post a new post from the REPO...
