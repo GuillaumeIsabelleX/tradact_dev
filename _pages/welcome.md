@@ -11,4 +11,4 @@ post_date: 2018-07-01 07:25:58
 This place is for Tradact developers so they can share about developing their trading career using structural dynamics.
 
 ##We expect the service to  :
-* Give Innovative information resulting in an advancing orientation for your trading
+* expose relevant information orienting trailers toward creating profits Using the structural DYNAMIC containing in the creative process
