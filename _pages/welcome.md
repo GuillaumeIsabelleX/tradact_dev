@@ -17,3 +17,4 @@ This place is for Tradact developers so they can share about developing their tr
 ## Prerequisite
 Have read [Path of least resistance](http://google.com/?s=Path+of+least+resistance)
 
+
