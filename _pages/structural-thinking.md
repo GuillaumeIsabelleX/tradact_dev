@@ -9,4 +9,13 @@ permalink: >
 published: true
 post_date: 2018-12-02 10:23:03
 ---
-What is Structural Thinking?
+# What is Structural Thinking? #
+
+# Historic #
+
+It has been invented by Robert Fritz in the last 30 years.
+
+# Why? #
+
+* Simply because it works !!
+
