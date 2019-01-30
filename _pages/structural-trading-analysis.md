@@ -2,7 +2,7 @@
 ID: 74
 post_title: Structural Trading Analysis
 author: admin
-post_excerpt: ""
+post_excerpt: "Structural Analysis is not technical analysis"
 layout: page
 permalink: >
   http://tradact.com/dev/wp/structural-trading-analysis/
